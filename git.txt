@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 git add
+=======
+git push
+
+>>>>>>> Feature2
